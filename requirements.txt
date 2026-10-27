@@ -1,2 +1,2 @@
 streamlit
---upgrade yt-dlp
+yt-dlp
